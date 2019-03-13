@@ -5,20 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Generating a model
 
-* System dependencies
+* Adding string and integer columns to a table
 
-* Configuration
+* Migrations
 
-* Database creation
+* The has_manu and belongs_to association
 
-* Database initialization
+* The Ruby each iterator
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
